@@ -35,7 +35,7 @@ html_static_path = ['_static']
 html_logo = "logo.png"
 html_theme_options = {
     'logo_only': False,
-    'display_version': False,
+    'display_version': True,
 }
 
 
