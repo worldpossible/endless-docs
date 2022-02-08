@@ -30,17 +30,21 @@ The USB Docking Station is for when you need to connect your Securebook to a USB
 
 .. note:: 
 
-When connecting to a Securebook, the securebook is placed snug against the dock with the dock's protruding connector securely placed inside the Securebook's docking port on the bottom.
+    When connecting to a Securebook, the securebook is placed snug against the dock with the dock's protruding connector securely placed inside the Securebook's docking port on the bottom.
 
 .. image:: ../_resources/IMG_20220110_134413897_HDR.jpg
 
 
-When a powered on securebook is properly docked, a green LED light will show on the side of the Docking Station.
+.. note::    
+
+    When a powered on securebook is properly docked, a green LED light will show on the side of the Docking Station.
 
 .. image:: ../_resources/IMG_20220110_134437908_HDR.jpg
 
 
-When a securebook is improperly docked or the Docking Station has the charger plugged into it without the securebook being docked, a red LED light will show on the side of the Docking Station.
+.. note::
+
+    When a securebook is improperly docked or the Docking Station has the charger plugged into it without the securebook being docked, a red LED light will show on the side of the Docking Station.
 
 
 .. image:: ../_resources/IMG_20220110_134843878_HDR.jpg
@@ -59,19 +63,25 @@ The Wi-Fi Docking Station is for when you need to connect your Securebook to a w
 .. image:: ../_resources/WIFIDockLights.jpg
 
 
-When connecting to a Securebook, the securebook is placed snug against the dock with the dock's protruding connector securely placed inside the Securebook's docking port on the bottom.
+.. note::
+
+    When connecting to a Securebook, the securebook is placed snug against the dock with the dock's protruding connector securely placed inside the Securebook's docking port on the bottom.
 
 
 .. image:: ../_resources/IMG_20220110_134556059_HDR.jpg
 
 
-When a powered on securebook is properly docked, a green LED light will show on the side of the Docking Station.
+.. note::
+
+    When a powered on securebook is properly docked, a green LED light will show on the side of the Docking Station.
 
 
 .. image:: ../_resources/IMG_20220110_134612307_HDR.jpg
 
 
-When a securebook is improperly docked or the Docking Station has the charger plugged into it without the securebook being docked, a red LED light will show on the side of the Docking Station.
+.. note::
+
+    When a securebook is improperly docked or the Docking Station has the charger plugged into it without the securebook being docked, a red LED light will show on the side of the Docking Station.
 
 
 .. image:: ../_resources/IMG_20220110_134920515.jpg
