@@ -36,6 +36,7 @@ html_logo = "logo.png"
 html_theme_options = {
     'logo_only': False,
     'display_version': True,
+    'style_nav_header_background' : '#24252b'
 }
 
 
