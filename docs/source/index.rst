@@ -12,5 +12,8 @@ Contents
 --------
 
 .. toctree::
-   install/usb_install
-   hardware/hardware_overview
+   install/index
+   hardware/index
+   technical/index
+   rachel/index
+   Software/index
