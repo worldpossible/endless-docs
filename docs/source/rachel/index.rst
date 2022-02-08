@@ -1,7 +1,7 @@
 .. _rachel          :
 
-RACHEL-Plus Guide
-#################
+RACHEL-Plus
+###########
 
 .. toctree::
   :maxdepth: 1
