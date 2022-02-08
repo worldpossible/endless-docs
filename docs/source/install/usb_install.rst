@@ -1,3 +1,5 @@
+.. _usb_install:
+
 # Installing New Image With Recovery USB
 
 ## Prerequisites
