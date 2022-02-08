@@ -3,19 +3,21 @@
 Hardware Overview
 =================
 
-## Prerequisites
-
+Prerequisites
+=============
 To accomplish this process, you will need:
 - WP Securebook
 - Docking Station (Red or Black)
 - Securebook Charger
 
 
-## Docking Station Evaluation
+Docking Station Evaluation
+==========================
 
 This section will cover all of the ports and functions of both the Black (USB) Docking Station and the Red (Wi-Fi) Docking Station.
 
-### Black (USB) Docking Station
+Black (USB) Docking Station
+===========================
 
 The USB Docking Station is for when you need to connect your Securebook to a USB, Ethernet, or HDMI connection. Additionally, the docking station has a charging port, perminant placement screw mounts, and a Kensington port lock. 
 
@@ -43,7 +45,8 @@ When a securebook is improperly docked or the Docking Station has the charger pl
 .. image:: ../_resources/IMG_20220110_134843878_HDR.jpg
 
 
-### Red (Wi-Fi) Docking Station
+Red (Wi-Fi) Docking Station
+===========================
 
 The Wi-Fi Docking Station is for when you need to connect your Securebook to a wireless network. Additionally, the docking station has a charging port, perminant placement screw mounts, and a Kensington port lock.
 
