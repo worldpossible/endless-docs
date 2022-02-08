@@ -1,7 +1,7 @@
 .. _install:
 
-Install
-########
+Install and Update
+##################
 
 .. toctree::
   :maxdepth: 1
