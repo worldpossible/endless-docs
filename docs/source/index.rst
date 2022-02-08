@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to World Possible Justice documentation!
+=========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+World Possible Justice is the ongoing collaboration between The Endless Foundation and World Possible to provide learning opportunities within the corrections system. To learn more about what we do, or find more information specific to your deployment, visit https://www.worldpossiblejustice.org/
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
 
 .. note::
 
@@ -18,5 +14,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   getting_started
+   hardware
