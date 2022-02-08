@@ -1,6 +1,6 @@
-.. _advanced:
+.. _technical:
 
-Advanced IT
-###########
+Technical
+#########
 
   
