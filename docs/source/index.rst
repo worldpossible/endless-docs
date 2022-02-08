@@ -12,6 +12,6 @@ Contents
 --------
 
 .. toctree::
-
+   :maxdepth: 2
    install/usb_install
    hardware/hardware_overview
