@@ -1,6 +1,7 @@
 .. _hardware_overview:
 
-# Hardware Overview
+Hardware Overview
+=================
 
 ## Prerequisites
 
