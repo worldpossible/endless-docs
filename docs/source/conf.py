@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'endless-justice'
+project = 'worldpossible-justice'
 copyright = '2021, World Possible'
 author = 'World Possible'
 
