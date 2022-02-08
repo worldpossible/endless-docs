@@ -15,5 +15,5 @@ Contents
    getting_started/index
    install/index
    hardware/index
-   technical/index
    software/index
+   technical/index
