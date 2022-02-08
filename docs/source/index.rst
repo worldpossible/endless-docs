@@ -12,6 +12,7 @@ Contents
 --------
 
 .. toctree::
+   getting_started/index
    install/index
    hardware/index
    technical/index

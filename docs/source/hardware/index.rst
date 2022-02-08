@@ -1,7 +1,7 @@
 .. _hardware:
 
 Hardware
-########
+========
 
   hardware_overview
   usb_dock
