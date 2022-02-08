@@ -20,11 +20,11 @@ This section will cover all of the ports and functions of both the Black (USB) D
 The USB Docking Station is for when you need to connect your Securebook to a USB, Ethernet, or HDMI connection. Additionally, the docking station has a charging port, perminant placement screw mounts, and a Kensington port lock. 
 
 
-![USBDockConnector.jpg](../../_resources/USBDockConnector.jpg)
+.. image:: ../../_resources/USBDockConnector.jpg
 
-![USBDockPorts.jpg](../../_resources/USBDockPorts.jpg)
+.. image:: ../../_resources/USBDockPorts.jpg
 
-![USBDockLights.jpg](../../_resources/USBDockLights.jpg)
+.. image:: ../../_resources/USBDockLights.jpg
 
 
 When connecting to a Securebook, the securebook is placed snug against the dock with the dock's protruding connector securely placed inside the Securebook's docking port on the bottom.
