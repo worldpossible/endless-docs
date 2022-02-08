@@ -16,5 +16,4 @@ Contents
    install/index
    hardware/index
    technical/index
-   rachel/index
-   Software/index
+   software/index
