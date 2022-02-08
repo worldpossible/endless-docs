@@ -28,6 +28,7 @@ The USB Docking Station is for when you need to connect your Securebook to a USB
 
 .. image:: ../_resources/USBDockLights.jpg
 
+.. note:: 
 
 When connecting to a Securebook, the securebook is placed snug against the dock with the dock's protruding connector securely placed inside the Securebook's docking port on the bottom.
 
