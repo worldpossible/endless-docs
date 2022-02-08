@@ -14,5 +14,5 @@ Contents
 
 .. toctree::
 
-   getting_started
-   hardware
+   usb_install
+   hardware_overview
