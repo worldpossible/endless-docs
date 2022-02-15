@@ -10,3 +10,4 @@ Hardware
   usb_dock
   wifi_dock
   rachel_plus
+  

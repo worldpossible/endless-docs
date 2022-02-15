@@ -1,66 +1,41 @@
-# RACHEL-Plus Guide
+.. _rachel_plus_guide:
 
-## Prerequisites
+RACHEL-Plus Guide
+#################
 
-- WP Securebook
-- RACHEL Device
-- Red (Wi-Fi) Docking Station
-- RACHEL Admin Credentials
+This guide will walk you through using your RACHEL-Plus device with the Securebook. Please follow the powering on and off instructions exactly as they are important to maintain a working device. 
 
----
-# RACHEL-Plus Overview
-This guide will walk you through using your RACHEL-Plus device. Please follow the powering on and off instructions exactly as they are important to maintain a working device. 
+Prerequisites
+=============
 
----
+To accomplish this process, you will need:
 
-# Connect to RACHEL
+* WP Securebook
+* RACHEL Device
+* Red (Wi-Fi) Docking Station
+* RACHEL Admin Credentials
 
-[Link to RG_ConnectToRACHEL]
+RACHEL-Plus Overview
+====================
 
----
+.. toctree::
+    :maxdepth: 1
+	
+    connect_to_rachel
+    adding_and_deleting_modules
+    hiding_and_sorting_modules
+    rachel_power_guide
 
-# Adding and Deleting Modules
+Changing Admin Password
+=======================
 
-[Link to RG_AddDeleteModules]
-
----
-
-# Hiding and Sorting Modules
-
-[Link to RG_HidingSortingModules]
-
----
-
-# RACHEL Power Guides
-
-[Link to RG_RachelPowerGuide]
-
----
-
-# Changing Admin Password
-
----
-
-To change the RACHEL admin password, follow these steps:
 1. Connect to RACHEL as Admin
 2. Click on the "Settings" Tab
 
----
-
-![03_ImportModulesSettings.jpg](../_resources/03_ImportModulesSettings.jpg)
-
----
+.. image:: ../_resources/03_ImportModulesSettings.jpg
 
 3. Enter the Current Password, the desired New Password, and then the New Password again in the "Repeat New" box.
 
----
-
-![05_RachelPassChange.JPG](../_resources/05_RachelPassChange.JPG)
-
----
+.. image:: ../_resources/05_RachelPassChange.JPG
 
 4. Click the "Save Changes" button to complete the Password change process.
-
----
-
-
