@@ -5,6 +5,7 @@ Hardware Overview
 
 An overview of the different hardware components available
 
+-------------
 Prerequisites
 -------------
 

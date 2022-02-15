@@ -5,6 +5,7 @@ How to use Turn It In!
 
 Turn It In! is a RACHEL module that allows teachers to upload content that can be downloaded by students and it also allows students to upload files for the teacher to collect.
 
+-------------
 Prerequisites
 -------------
 

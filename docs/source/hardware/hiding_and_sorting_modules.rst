@@ -5,6 +5,7 @@ Hiding and Sorting Modules
 
 This guide will help you learn to Hide and/or Sort existing RACHEL modules.
 
+-------------
 Prerequisites
 -------------
 

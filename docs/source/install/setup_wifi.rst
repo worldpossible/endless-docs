@@ -3,6 +3,9 @@
 How to run setup_wifi
 #####################
 
+This guide will help you learn to run the setup_wifi.sh script when deploying a fresh securebook
+
+-------------
 Prerequisites
 -------------
 

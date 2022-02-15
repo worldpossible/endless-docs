@@ -3,6 +3,9 @@
 How to run first_setup.sh
 #########################
 
+This guide will help you learn how to run the first_setup.sh script when deploying fresh securebooks
+
+-------------
 Prerequisites
 -------------
 

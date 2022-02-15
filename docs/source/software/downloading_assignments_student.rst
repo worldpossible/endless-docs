@@ -5,6 +5,7 @@ Downloading Assignments As Student
 
 This guide will help you learn to download assignments that teachers have uploaded to the Turn It In! RACHEL Module
 
+-------------
 Prerequisites
 -------------
 

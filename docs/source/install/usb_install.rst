@@ -3,6 +3,9 @@
 Recovery USB Installation 
 #########################
 
+This guide will help you learn to image a fresh securebook using a World Possible Recovery USB device
+
+-------------
 Prerequisites
 -------------
 

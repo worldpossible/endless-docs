@@ -5,6 +5,7 @@ Checking Browser History
 
 This guide will help the admin check the browser history of the student account.
 
+-------------
 Prerequisites
 -------------
 

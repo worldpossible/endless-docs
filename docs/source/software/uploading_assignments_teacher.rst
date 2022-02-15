@@ -5,6 +5,7 @@ Uploading Assignments as Teacher
 
 This guide will help you learn to upload assignments for students to work on in the Turn It In! RACHEL Module
 
+-------------
 Prerequisites
 -------------
 

@@ -5,6 +5,7 @@ How to Dock Devices to Wi-Fi
 
 This guide will help you learn to connect a wireless network with a Securebook and Red Docking Station.
 
+-------------
 Prerequisites
 -------------
 

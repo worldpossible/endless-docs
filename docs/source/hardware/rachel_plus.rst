@@ -5,6 +5,7 @@ RACHEL-Plus Guide
 
 This guide will walk you through using your RACHEL-Plus device with the Securebook. Please follow the powering on and off instructions exactly as they are important to maintain a working device. 
 
+-------------
 Prerequisites
 -------------
 
