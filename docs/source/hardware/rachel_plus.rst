@@ -15,6 +15,17 @@ To accomplish this process, you will need:
 * Red (Wi-Fi) Docking Station
 * RACHEL Admin Credentials
 
+RACHEL-Plus Overview
+====================
+
+.. toctree::
+    :maxdepth: 1
+	
+    connect_to_rachel
+    adding_and_deleting_modules
+    hiding_and_sorting_modules
+    rachel_power_guide
+
 Changing Admin Password
 =======================
 
