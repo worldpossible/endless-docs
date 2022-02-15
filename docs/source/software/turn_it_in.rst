@@ -20,11 +20,11 @@ Turn It In! Overview
 .. toctree::
     :maxdepth: 1
     
-    uploading_assignments_teacher.rst
-    downloading_assignments_teacher.rst
-    change_login_password.rst
-    downloading_assignments_student.rst
-    uploading_assignments_student.rst
+    uploading_assignments_teacher
+    downloading_assignments_teacher
+    change_login_password
+    downloading_assignments_student
+    uploading_assignments_student
 
 Accessing Turn It In! as Teacher
 ================================
