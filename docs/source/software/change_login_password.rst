@@ -6,7 +6,7 @@ Changing Login Password
 This guide will help you learn to change the Turn It In! admin/teacher password.
 
 Prerequisites
-=============
+-------------
 
 To accomplish this process, you will need:
 

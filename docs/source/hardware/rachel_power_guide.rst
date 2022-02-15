@@ -6,7 +6,7 @@ Rachel Power Guide
 This guide will help inform users on proper power management practices when using a RACHEL device.
 
 Prerequisites
-=============
+-------------
 
 To accomplish this process, you will need:
 

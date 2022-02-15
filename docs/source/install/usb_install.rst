@@ -4,7 +4,7 @@ Recovery USB Installation
 #########################
 
 Prerequisites
-=============
+-------------
 
 To accomplish this process, you will need:
 

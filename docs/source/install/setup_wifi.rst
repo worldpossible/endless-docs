@@ -4,7 +4,7 @@ How to run setup_wifi
 #####################
 
 Prerequisites
-=============
+-------------
 
 To accomplish this process, you will need:
 

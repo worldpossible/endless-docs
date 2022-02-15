@@ -4,7 +4,7 @@ How to run first_setup.sh
 #########################
 
 Prerequisites
-=============
+-------------
 
 To accomplish this process you will need:
 

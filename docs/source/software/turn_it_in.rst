@@ -6,25 +6,13 @@ How to use Turn It In!
 Turn It In! is a RACHEL module that allows teachers to upload content that can be downloaded by students and it also allows students to upload files for the teacher to collect.
 
 Prerequisites
-=============
+-------------
 
 To accomplish this process, you will need:
 
 * WP Securebook
 * Red (Wi-Fi) Securebook Docking Station
 * Turn It In! Teacher Credentials
-
-Turn It In! Overview
-====================
-
-.. toctree::
-    :maxdepth: 1
-    
-    uploading_assignments_teacher.rst
-    downloading_assignments_teacher.rst
-    change_login_password.rst
-    downloading_assignments_student.rst
-    uploading_assignments_student.rst
 
 Accessing Turn It In! as Teacher
 ================================
