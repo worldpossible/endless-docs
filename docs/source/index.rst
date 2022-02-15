@@ -14,8 +14,8 @@ Contents
 .. toctree::
 	:maxdepth: 1
     
-    getting_started/index.rst
-    hardware/index.rst
-    install/index.rst
-    software/index.rst
-    technical/index.rst
+    getting_started/index
+    hardware/index
+    install/index
+    software/index
+    technical/index
