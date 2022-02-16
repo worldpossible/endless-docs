@@ -10,7 +10,7 @@ Prerequisites
 *************
 
 To accomplish this process, you will need:
-
+  
 * WP Securebook
 * Black (USB) Securebook Docking Station
 * USB Device
