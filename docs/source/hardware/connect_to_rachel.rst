@@ -5,9 +5,8 @@ Connect To RACHEL
 
 This guide will help you learn to connect a securebook to a RACHEL device.
 
--------------
 Prerequisites
-~~~~~~~~~~~~~
+"""""""""""""
 
 To accomplish this task, you will need:
 
