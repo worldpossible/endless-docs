@@ -4,7 +4,7 @@ Hardware
 ########
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 1
 
   hardware_overview
   usb_dock
