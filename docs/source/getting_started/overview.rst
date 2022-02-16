@@ -1,4 +1,4 @@
-.. overview:
+.. _overview:
 
 What system do I need
 ###########################
@@ -16,7 +16,7 @@ To accomplish this task, you will need:
 
 
 Self-paced learning and discovery opportunities
-==================
+===============================================
 
 1. Connect to RACHEL as Admin
 2. Click on the "Install" Tab
