@@ -7,7 +7,6 @@ This guide will help the admin check the browser history of the student account.
 
 *************
 Prerequisites
-*************
 
 To accomplish these processes, you will need:
 

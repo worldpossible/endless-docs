@@ -7,7 +7,6 @@ This guide will help you learn to download assignments that teachers have upload
 
 *************
 Prerequisites
-*************
 
 To accomplish this process, you will need:
 

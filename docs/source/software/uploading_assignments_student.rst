@@ -7,7 +7,6 @@ This guide will help you learn to upload assignments from students to the Turn I
 
 *************
 Prerequisites
-*************
 
 To accomplish this process, you will need:
 

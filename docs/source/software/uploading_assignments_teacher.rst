@@ -7,7 +7,6 @@ This guide will help you learn to upload assignments for students to work on in 
 
 *************
 Prerequisites
-*************
 
 To accomplish this process, you will need:
 

@@ -7,7 +7,6 @@ This guide will help you learn to connect a wireless network with a Securebook a
 
 *************
 Prerequisites
-*************
 
 To accomplish this process, you will need:
 

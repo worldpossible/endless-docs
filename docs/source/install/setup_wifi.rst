@@ -7,7 +7,6 @@ This guide will help you learn to run the setup_wifi.sh script when deploying a 
 
 *************
 Prerequisites
-*************
 
 To accomplish this process, you will need:
 

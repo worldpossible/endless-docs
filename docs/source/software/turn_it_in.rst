@@ -7,7 +7,6 @@ Turn It In! is a RACHEL module that allows teachers to upload content that can b
 
 *************
 Prerequisites
-*************
 
 To accomplish this process, you will need:
 

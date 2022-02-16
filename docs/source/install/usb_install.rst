@@ -7,7 +7,6 @@ This guide will help you learn to image a fresh securebook using a World Possibl
 
 *************
 Prerequisites
-*************
 
 To accomplish this process, you will need:
 

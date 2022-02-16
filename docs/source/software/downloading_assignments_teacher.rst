@@ -7,7 +7,6 @@ This guide will help you download assignments that students have uploaded to the
 
 *************
 Prerequisites
-*************
 
 To accomplish this process, you will need:
 
