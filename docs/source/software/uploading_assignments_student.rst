@@ -5,9 +5,8 @@ Uploading Assignments as Student
 
 This guide will help you learn to upload assignments from students to the Turn It In! RACHEL Module.
 
--------------
 Prerequisites
--------------
+=============
 
 To accomplish this process, you will need:
 
