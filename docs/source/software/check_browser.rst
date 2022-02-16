@@ -13,8 +13,8 @@ To accomplish these processes, you will need:
 * WP Securebook
 * Student Credentials
 
+************************
 Checking Browser History
-========================
 
 1. Power on the Securebook
 2. Log into the Student account using the Student Credentials
