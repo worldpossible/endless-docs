@@ -1,12 +1,14 @@
 .. _adding_and_deleting_modules:
 
+.. role:: underline
+    :class: underline
+
 Adding and Deleting Modules
 ###########################
 
 This guide will help you learn to add new modules to RACHEL as well as how to remove existing ones.
 
-
-:underline: Prerequisites
+Prerequisites
 
 To accomplish this task, you will need:
 
