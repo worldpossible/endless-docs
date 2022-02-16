@@ -115,5 +115,5 @@ Changing Student Account Password
 
 .. image:: ../_resources/10_newPassword.jpg
 
-13. Click the save button.
+13. Click the change button.
 14. Close the settings menu
