@@ -6,8 +6,7 @@ Adding and Deleting Modules
 This guide will help you learn to add new modules to RACHEL as well as how to remove existing ones.
 
 
-Prerequisites
-"""""""""""""
+:underline: Prerequisites
 
 To accomplish this task, you will need:
 
