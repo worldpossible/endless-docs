@@ -7,7 +7,7 @@ An overview of the different hardware components available
 
 -------------
 Prerequisites
--------------
+=============
 
 To accomplish this process, you will need:
 
