@@ -43,7 +43,3 @@ To connect to RACHEL, follow these steps:
 8. Enter the RACHEL Admin Username and Password
 
 .. image:: ../_resources/02_ImportAdminLogin.JPG
-
-.. note::
-
-    this is an edit that will soon be removed!!!
