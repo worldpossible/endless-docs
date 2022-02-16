@@ -7,7 +7,7 @@ This guide will help you learn to use a USB device with your Securebook and Blac
 
 
 Prerequisites
-#############
+"""""""""""""
 
 To accomplish this process, you will need:
   
