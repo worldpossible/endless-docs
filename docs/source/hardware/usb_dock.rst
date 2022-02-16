@@ -5,9 +5,8 @@ How to Dock Devices to USB
 
 This guide will help you learn to use a USB device with your Securebook and Black Docking Station
 
-
 Prerequisites
-"""""""""""""
+*************
 
 To accomplish this process, you will need:
   
