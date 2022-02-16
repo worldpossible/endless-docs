@@ -54,4 +54,4 @@ Accessing Turn It In! as Student
 4. Navigate to RACHEL
 5. Select the Turn It In! Module
 
-.. image:: ../_resources/01_RACHEL-2.jpg
+.. image:: ../_resources/01_RACHEL.jpg
