@@ -20,6 +20,7 @@ Checking Browser History
 2. Log into the Student account using the Student Credentials
 3. Open the Web Broswer
 4. Enter the following address into the address bar:
+
 .. code-block:: html
 
     chrome://history
