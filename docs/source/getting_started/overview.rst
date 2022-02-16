@@ -5,9 +5,8 @@ What system do I need
 
 Picking a digital education system in corrections is difficult. In this document, we will attempt to use non-technical discussion terms to lay out some pathways for student and educator success.
 
--------------
+*************
 Prerequisites
--------------
 
 To accomplish this task, you will need:
 
