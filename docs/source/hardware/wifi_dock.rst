@@ -13,6 +13,10 @@ To accomplish this process, you will need:
 * WP Securebook
 * Red (Wi-Fi) Securebook Docking Station
 
+.. important::
+
+    Please do not attempt to connect to WiFi manually, this connection should occur automatically within 30 seconds of booting up or the Securebook should be rebooted while on the Red Docking Station
+
 To connect the securebook to a wireless Wi-Fi network, follow these steps:
 
 1. Power Off the Securebook
@@ -26,8 +30,15 @@ To connect the securebook to a wireless Wi-Fi network, follow these steps:
 
 .. image:: ../_resources/IMG_20220110_134612307_HDR.jpg
 
-3. Power On the Securebook
+3. Power On the Securebook. If the Wifi credentials were setup right in the initial setup and the Securebook is properly docked then The Wifi Icon should appear in the bottom right of the Login Screen.
+
+.. image:: ../_resources/Wifi-setup_WifiIconLogin.jpg
+
 4. Log in to an account
+
+5. To Check that the wifi is connected to the correct network, click on the wifi icon in the taskbar at the bottom of the desktop view.
+
+.. image:: ../_resources/Wifi-setup_WifiIcon.jpg
 
 .. note::
 
