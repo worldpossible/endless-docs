@@ -8,4 +8,4 @@ Install and Update
 
   usb_install
   setup_wifi
-  setup_usb
+  first_setup
