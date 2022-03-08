@@ -19,4 +19,4 @@ Contents
     install/index
     software/index
     technical/index
-    basic/index
+    
