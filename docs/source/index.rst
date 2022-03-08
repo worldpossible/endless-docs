@@ -19,4 +19,5 @@ Contents
     install/index
     software/index
     technical/index
+    deployment_specific/index
     
