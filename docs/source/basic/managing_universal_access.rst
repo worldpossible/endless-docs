@@ -18,7 +18,7 @@ To access and use the Universal Access tools, follow these steps:
 2. Type "universal" into the Universal Searchbar at the top of the desktop
 3. Select Universal Access in the Settings option
 
-.. image:: ../_resources/SettingsUI_Univeral_searchbar.jpg
+.. image:: ../_resources/SettingsUI_Universal_searchbar.jpg
 
 4. To always show the Universal Access Tools menu, toggle that option.
 
