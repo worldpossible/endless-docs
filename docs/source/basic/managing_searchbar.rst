@@ -28,4 +28,4 @@ To manage the searchbar, follow these steps:
 
     Additionally, by clicking the three vertical dots on a resource you can move it up or down in the search importance. Apps closer to the top get searched before those at the bottom.
     
-.. image:: ../_resource/SettingsUI_Search_moveResource.jpg
+.. image:: ../_resources/SettingsUI_Search_moveResource.jpg
