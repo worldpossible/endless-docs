@@ -30,8 +30,6 @@ To add icons to the desktop, follow these steps:
 
 6. Close the App Center and Check the desktop for your new icon
 
-.. image:: ../_resources/DesktopIcons_newIcon.jpg
-
 .. note::
 
     Once an Application is added to the desktop, it can also be removed from the same page we added it on in step 5 by clicking the "Remove from Desktop" button
