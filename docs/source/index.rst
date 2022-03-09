@@ -19,5 +19,6 @@ Contents
     install/index
     software/index
     technical/index
+    basic/index
     deployment_specific/index
     

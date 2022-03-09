@@ -18,10 +18,5 @@ To accomplish this task, you will need:
   
   changing_background
   managing_searchbar
-  managing_lock_screens
-  managing_power
-  changing_resolution
   managing_universal_access
-  changing_default_applications
   changing_date_and_time
-  checking_hardware_settings
