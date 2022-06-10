@@ -15,3 +15,4 @@ Basic tutorials
   viewing_hidden_files
   accessing_student_folders
   content_moving_usb
+  parental_controls
